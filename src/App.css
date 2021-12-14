@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.pieChart {
+  width: 50%;
+  position: absolute;
+  left: 0px;
+  height: 30%;
+}
+
+.barChart {
+  width: 50%;
+  position: absolute;
+  right: 0px;
+  height: 100%;
+}
